@@ -22,7 +22,7 @@ adb shell /data/local/tmp/android-agent
 ```
 
 ## 后续
-- 查端口号
+- 查端口号  
 netstat -tunlp  
 
 - 查进程  
