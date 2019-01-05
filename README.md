@@ -1,6 +1,6 @@
 # android-agent
-android端http服务器，通过wifi接收http请求
-后期可以加入adb shell命令获取手机信息
+- android端http服务器，通过wifi接收http请求  
+- 后期可以加入adb shell命令获取手机信息  
 
 ## 编译(android手机)
 ```
