@@ -22,12 +22,12 @@ adb shell /data/local/tmp/android-agent
 ```
 
 ## 后续
-- 查端口号
-netstat -tunlp
+- 查端口号  
+netstat -tunlp  
 
-- 查进程
-adb shell
-ps | grep android
+- 查进程  
+adb shell  
+ps | grep android  
 
-- 杀进程
-kill -s 9 1827
+- 杀进程  
+kill -s 9 1827  
